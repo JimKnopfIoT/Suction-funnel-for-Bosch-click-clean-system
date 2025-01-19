@@ -11,7 +11,10 @@ Requirements:
 
 ## View
 <p align="center">
-<img src="Trichter4.png" width="220"> 
+<img src="Trichter1.png" width="220"> 
+<img src="Trichter2.png" width="220"> 
+</p> 
+<p align="center">  
 <img src="IMG_20250119_120112.jpg" width="220">
 <img src="IMG_20250119_120306.jpg" width="220">
 <img src="IMG_20250119_120359.jpg" width="220">  
