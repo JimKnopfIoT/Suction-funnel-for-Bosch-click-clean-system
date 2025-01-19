@@ -1,4 +1,4 @@
-# Suction-funnel-for-Bosch-click-clean-system
+# Suction funnel for Bosch click&clean system
 3D printable suction funnel for Bosch click&amp;clean system. Created in Rhino 8.
 
 Since I have the Bosch cordless vacuum cleaner with Click&Clean connection and have redrawn the connection for it, I am always finding new applications. 
